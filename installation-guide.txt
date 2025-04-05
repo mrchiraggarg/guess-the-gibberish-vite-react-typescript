@@ -1,0 +1,13 @@
+# 1. Clone the repo
+git clone https://github.com/your-username/guess-the-gibberish.git
+cd guess-the-gibberish
+
+# 2. Install all dependencies (this includes Tailwind, TypeScript, Vite)
+npm install
+# or
+yarn install
+
+# 3. Run the project
+npm run dev
+# or
+yarn dev
