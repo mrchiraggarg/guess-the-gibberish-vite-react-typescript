@@ -150,6 +150,25 @@ export const phrases: Phrase[] = [
     { gibberish: "aim put tent", actual: "important" },
     { gibberish: "sum thin feels off", actual: "something feels off" },
     { gibberish: "whale gum two duh team", actual: "welcome to the team" },
-    { gibberish: "new deal lease", actual: "noodles" }
-]
-    ;
+    { gibberish: "new deal lease", actual: "noodles" },
+    { gibberish: "aim tough fee ice", actual: "empty of the eyes" },
+    { gibberish: "law sand juice found", actual: "lost and just found" },
+    { gibberish: "how stair yak shin", actual: "hostel reaction" },
+    { gibberish: "he’s trawl ink news", actual: "he's trolling news" },
+    { gibberish: "chore jazz pink", actual: "George has pink" },
+    { gibberish: "bless huff yawn", actual: "bless of yawn" },
+    { gibberish: "sue pear none", actual: "super unknown" },
+    { gibberish: "hiss aids sew", actual: "he said so" },
+    { gibberish: "bee churn crayon", actual: "picture crying" },
+    { gibberish: "stair tough aim hush in", actual: "start of a mission" },
+    { gibberish: "ache rim hiss pecked", actual: "cream is perfect" },
+    { gibberish: "doll lures sank tour", actual: "dollar sanctuary" },
+    { gibberish: "aim hush yawn dawn", actual: "emotion down" },
+    { gibberish: "nigh steam eerie", actual: "nice to meet me" },
+    { gibberish: "trough all aim itch", actual: "travel image" },
+    { gibberish: "awe fern hiss dish", actual: "open this dish" },
+    { gibberish: "ask cue sing aim", actual: "excusing him" },
+    { gibberish: "letch itch rave", actual: "electric wave" },
+    { gibberish: "doe fan chew", actual: "don't you" },
+    { gibberish: "aim lawn gloat", actual: "I'm long gone" }
+];
