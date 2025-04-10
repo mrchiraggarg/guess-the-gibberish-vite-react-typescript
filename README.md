@@ -1,4 +1,4 @@
-Live Demo: https://guess-the-gibberish-delta.vercel.app/
+Live App: https://guess-the-gibberish-delta.vercel.app/
 
 # React + TypeScript + Vite
 
