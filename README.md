@@ -1,4 +1,4 @@
-Live App: https://guess-the-gibberish-delta.vercel.app/
+Live URL: https://guess-the-gibberish-delta.vercel.app/
 
 # React + TypeScript + Vite
 
