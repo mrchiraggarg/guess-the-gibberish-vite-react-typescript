@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { phrases, Phrase } from "./data";
 import GibberishCard from "./GibberishCard";
 import Result from "./Result";
